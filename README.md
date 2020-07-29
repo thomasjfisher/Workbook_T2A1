@@ -346,11 +346,13 @@ Each host can have many listings. Each user can have many reviews. Each listing 
 
 **g.** **Design a schema using an Entity Relationship Diagram (ERD) appropriate for the database of this website (assuming a relational database model)** 
 
-![Airbnb ERD]()
+![Airbnb ERD](https://github.com/thomasjfisher/Workbook_T2A1/blob/master/airbnb_erd.png)
 
-
-
-
+**References:**
+https://aws.amazon.com/solutions/case-studies/airbnb/
+https://blog.patricktriest.com/host-webapps-free/
+https://www.forbes.com/sites/quora/2018/02/20/what-technology-stack-does-airbnb-use/#5dce75f14025
+https://en.wikipedia.org/wiki/Airbnb
 
 
 
